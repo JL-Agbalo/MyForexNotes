@@ -155,3 +155,4 @@ A candlestick shows how a stock’s price moved during a certain time.
 - **Point:** The smallest price movement, one-tenth of a pip.
 - EUR/USD quotes to 5 decimal places; USD/JPY quotes to 3 decimal places.
 
+[⬅️ Back to Home](README.md)
