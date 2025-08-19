@@ -3,5 +3,5 @@
 Welcome to my forex trading notes! Click a chapter to start reading:
 
 ## 📑 Table of Contents
-- [Chapter 1](chapter-1.md)
+- [Batch 8 Day 1](batch-8-day-1.md)
 - [Forex Trading Basics](forex-trading.md)
