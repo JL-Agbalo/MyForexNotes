@@ -1,9 +1,5 @@
 # Batch 8: Day 1
 
-## Debunking the Myths About Trading
-
----
-
 ### **Leverage**
 Leverage in forex trading refers to the use of borrowed funds to increase one's trading position beyond what would be possible with their own capital. It allows traders to control larger positions with a smaller amount of money, potentially amplifying both profits and losses.
 
