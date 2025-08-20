@@ -206,6 +206,10 @@ A lot size in forex trading refers to the number of units of a currency you buy 
 - **Take Profit:** Closes your trade automatically at a set profit level.
 - **Stop Loss:** Closes your trade automatically at a set loss level to limit risk.
 
+### **Swap & SWAP Fee**
+
+- **Swap:** The interest paid or earned for holding a forex position overnight.
+- **SWAP Fee:** The cost or credit applied to your account for this overnight interest, depending on the currencies traded and the direction of your trade.
 
 [⬅️ Back to Home](README.md)
 
