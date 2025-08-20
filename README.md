@@ -1,7 +1,8 @@
-# 📘 My Forex Notes
+# 📘 Forex Notes
 
-Welcome to my forex trading notes! Click a chapter to start reading:
+Welcome to the forex trading notes! Click a chapter to start reading:
 
 ## 📑 Table of Contents
 - [Batch 8 Day 1](batch-8-day-1.md)
 - [Forex Trading Basics](forex-trading.md)
+

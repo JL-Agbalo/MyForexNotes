@@ -151,4 +151,61 @@ A candlestick shows how a stock’s price moved during a certain time.
 - **Point:** The smallest price movement, one-tenth of a pip.
 - EUR/USD quotes to 5 decimal places; USD/JPY quotes to 3 decimal places.
 
+### **How to Calculate Pips**
+
+To calculate pips in forex trading:
+
+1. **Find the difference** between the opening and closing price.
+2. **For most pairs (like EUR/USD):**
+    - 1 pip = 0.0001
+    - Example: 1.2345 → 1.2350 = (1.2350 - 1.2345) = 0.0005 = 5 pips
+3. **For JPY pairs (like USD/JPY):**
+    - 1 pip = 0.01
+    - Example: 110.25 → 110.30 = (110.30 - 110.25) = 0.05 = 5 pips
+
+**Formula:**  
+`Number of Pips = (Price Difference) / (Pip Size)`
+
+
+### **Support and Resistance**
+- **Resistance:** A price "ceiling" where selling pressure stops prices from rising.
+- **Support:** A price "floor" where buying pressure prevents prices from falling.
+
+### **Margin & Margin Call**
+
+- **Margin:** Money you deposit to open a leveraged trade.
+- **Margin Call:** Warning from broker to add funds if your account drops too low.
+- In short: Margin lets you trade with borrowed money, but you must add more if losses get too big.
+
+### **Lot Size**
+
+A lot size in forex trading refers to the number of units of a currency you buy or sell in one trade. It determines how much each pip movement is worth.
+
+#### **Lot Types and Values**
+
+| Lot Type   | Units (Volume) | Value per Pip (EUR/USD) |
+|------------|----------------|-------------------------|
+| Standard   | 100,000        | $10                     |
+| Mini       | 10,000         | $1                      |
+| Micro      | 1,000          | $0.10                   |
+| Nano       | 100            | $0.01                   |
+
+- **Standard Lot:** 100,000 units, each pip is worth $10.
+- **Mini Lot:** 10,000 units, each pip is worth $1.
+- **Micro Lot:** 1,000 units, each pip is worth $0.10.
+- **Nano Lot:** 100 units, each pip is worth $0.01.
+
+### **Bid Price, Ask Price, and Spread**
+
+- **Bid Price:** The highest price a buyer is willing to pay for an asset.
+- **Ask Price:** The lowest price a seller is willing to accept for an asset.
+- **Spread:** The difference between the bid and ask price; it represents the broker’s profit and market liquidity.
+
+### **Take Profit & Stop Loss**
+
+- **Take Profit:** Closes your trade automatically at a set profit level.
+- **Stop Loss:** Closes your trade automatically at a set loss level to limit risk.
+
+
 [⬅️ Back to Home](README.md)
+

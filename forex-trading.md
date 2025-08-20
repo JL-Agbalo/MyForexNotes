@@ -20,8 +20,7 @@ The **Jars System** is a budgeting method that divides your income into specific
 ### Online Banking
 - Open a new bank account to separate your finances and track your spending.
 
-### Jars Allocation
-- **Tithes (10%)** — Donations or charitable giving.
+- **Tithes to Church (10%)** — Set aside 10% of your income as tithes for the Lord.
 - **LTSS (Long Term Savings) (20%)** — Savings for future goals (e.g., retirement, investments).
 - **Education (10%)** — Invest in personal growth (books, seminars, training).
 - **Play (10%)** — Allocate for leisure and rewards (treat yourself monthly).
